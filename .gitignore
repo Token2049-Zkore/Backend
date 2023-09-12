@@ -1,0 +1,13 @@
+# venv
+venv
+.env
+__pycache__
+
+
+# training files
+*.csv
+*.srs
+*.onnx
+*.compiled
+*.json
+*.pkl
